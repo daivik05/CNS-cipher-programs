@@ -4,9 +4,9 @@ Welcome to the Cryptographic Algorithms repository! This repository contains imp
 
 ## Algorithms Included
 
-1. [Caesar Cipher](caesar_cipher.py): The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+1. [Caesar Cipher](caesarcipher.py): The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
-2. [RSA (Rivest-Shamir-Adleman)](rsa.py): RSA is a public-key cryptosystem widely used for secure data transmission. It uses a pair of keys: a public key for encryption and a private key for decryption.
+2. [RSA (Rivest-Shamir-Adleman)](RSA.py): RSA is a public-key cryptosystem widely used for secure data transmission. It uses a pair of keys: a public key for encryption and a private key for decryption.
 
 3. [Playfair Cipher](playfair_cipher.py): The Playfair Cipher is a digraph substitution cipher that encrypts pairs of letters in the plaintext based on a keyword and a 5x5 grid.
 
@@ -16,9 +16,9 @@ Welcome to the Cryptographic Algorithms repository! This repository contains imp
 
 6. [Feistel Cipher](feistel_cipher.py): The Feistel Cipher is a symmetric structure used in the construction of block ciphers. It divides the plaintext into blocks and applies multiple rounds of a round function.
 
-7. [Diffie-Hellman Cipher](diffie_hellman_cipher.py): The Diffie-Hellman Cipher is a key exchange protocol that allows two parties to establish a shared secret over an insecure channel.
+7. [Diffie-Hellman Cipher](diffie_hellman.py): The Diffie-Hellman Cipher is a key exchange protocol that allows two parties to establish a shared secret over an insecure channel.
 
-8. [DES (Data Encryption Standard) Binary Key Generator](des_binary_key_generator.py): DES is a symmetric-key block cipher. This program generates a random binary key for DES encryption.
+8. [DES (Data Encryption Standard) Binary Key Generator](DES_key_generation.py): DES is a symmetric-key block cipher. This program generates a random binary key for DES encryption.
 
 ## Usage
 
