@@ -4,7 +4,7 @@ Welcome to the Cryptographic Algorithms repository! This repository contains imp
 
 ## Algorithms Included
 
-1. [Caesar Cipher](caesar_cipher.py): The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+1. [Caesar Cipher](caesarcipher.py): The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
 2. [RSA (Rivest-Shamir-Adleman)](RSA.py): RSA is a public-key cryptosystem widely used for secure data transmission. It uses a pair of keys: a public key for encryption and a private key for decryption.
 
