@@ -20,6 +20,11 @@ Welcome to the Cryptographic Algorithms repository! This repository contains imp
 
 8. [DES (Data Encryption Standard) Binary Key Generator](DES_key_generation.py): DES is a symmetric-key block cipher. This program generates a random binary key for DES encryption.
 
+9. [Vigenere Cipher](vigenere_cipher.py):The Vigenère cipher is a type of substitution cipher that uses multiple monoalphabetic substitution ciphers to hide the original plaintext structure. The code key specifies which substitution to use. 
+
+10.[Eleptic Curve Cypthography](eleptic_curve_cryptography.py):Elliptic Curve Cryptography (ECC) is a public-key cryptography technique that uses the mathematics of elliptic curves to generate security between key pairs
+
+
 ## Usage
 
 Each algorithm is implemented in a separate Python script. To run any specific algorithm, simply execute the corresponding Python script.
